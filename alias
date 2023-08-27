@@ -1,0 +1,7 @@
+alias clr='clear'
+alias update='sudo apt update'
+function install() {
+    sudo dpkg -i $1;
+}
+alias tlsfe='cd /home/ranjan/projects/threeline-freight-forwarding-fronten>
+alias tlsbe='cd /home/ranjan/projects/threeline-freight-forwarding/;'
